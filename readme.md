@@ -78,7 +78,7 @@ npm run dev
 ## 🔗 Enlaces Adicionales
 
 - **Diagrama Relacional:** [Ver en Google Drive](https://drive.google.com/file/d/1FInUz8KzlmaWQMx2lccefiKS2r3thN2I/view?usp=drive_link)
-
+- **Documentación API:** https://documenter.getpostman.com/view/47431134/2sB3BDLXVr
 
 ## 👨‍💻 Desarrollador
 
